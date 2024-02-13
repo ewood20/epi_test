@@ -7,6 +7,7 @@
 #    https://shiny.posit.co/
 #
 
+#some changes
 library(shiny)
 
 # Define UI for application that draws a histogram
